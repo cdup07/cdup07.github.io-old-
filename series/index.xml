@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Carson W. Williams</title>
-    <link>cdup07.github.io/series/</link>
+    <link>https://cdup07.github.io/series/</link>
     <description>Recent content in Series on Carson W. Williams</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="cdup07.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://cdup07.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
