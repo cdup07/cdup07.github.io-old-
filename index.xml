@@ -24,14 +24,14 @@ printf(&amp;#34;Hello world&amp;#34;); </description>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.carsonwwilliams.com/about/</guid>
-      <description>Hi, I&amp;rsquo;m Carson Williams Here&amp;rsquo;s a little about me&amp;hellip;
+      <description>Hi, I&amp;rsquo;m Carson Here&amp;rsquo;s a little about me&amp;hellip;
 EDUCATION Purdue University, West Lafayette, IN
 Bachelor of Science in Cybersecurity, May 2024
 Minor in Organizational Leadership
-Relevant Coursework:
-Completed: Cybersecurity Fundamentals, System Administration, Database Fundamentals, Systems Analysis and Design Methods Currently Enrolled in: Intro to Cryptography, UNIX Fundamentals, Policy and Regulation in IT EXPERIENCE Tracer Fire CTF – 2nd Place (October 2022) West Lafayette, IN
+Relevant Coursework: Completed: Cybersecurity Fundamentals, System Administration, Database Fundamentals, Systems Analysis and Design Methods Currently Enrolled in: Intro to Cryptography, UNIX Fundamentals, Policy and Regulation in IT EXPERIENCE Tracer Fire CTF – 2nd Place October 2022
+West Lafayette, IN
 Sandia National Laboratories
-Investigated multiple advanced persistent threat adversaries in a simulated incident response scenario Utilized incident response tools including Kibana, Velociraptor, Arkime, and Ghidra Residential Networks Support Representative (August 2022 - Present) Purdue University, West Lafayette, IN</description>
+Investigated multiple advanced persistent threat adversaries in a simulated incident response scenario Utilized incident response tools including Kibana, Velociraptor, Arkime, and Ghidra Residential Networks Support Representative August 2022 - Present</description>
     </item>
     
   </channel>
