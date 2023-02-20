@@ -1,29 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>34220 Lab on Carson W. Williams</title>
-    <link>https://www.carsonwwilliams.com/projects/34220/</link>
-    <description>Recent content in 34220 Lab on Carson W. Williams</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.carsonwwilliams.com/projects/34220/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Adding Email</title>
-      <link>https://www.carsonwwilliams.com/projects/34220/email/</link>
-      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.carsonwwilliams.com/projects/34220/email/</guid>
-      <description>I added some Email</description>
-    </item>
-    
-    <item>
-      <title>my first post for 34220 project</title>
-      <link>https://www.carsonwwilliams.com/projects/34220/first34220post/</link>
-      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.carsonwwilliams.com/projects/34220/first34220post/</guid>
-      <description>hello??? this is the first post</description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>34220 Lab on Carson W. Williams</title>
+        <link>https://www.carsonwwilliams.com/projects/34220/</link>
+        <description>Recent content in 34220 Lab on Carson W. Williams</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://www.carsonwwilliams.com/projects/34220/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Adding Email</title>
+            <link>https://www.carsonwwilliams.com/projects/34220/email/</link>
+            <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://www.carsonwwilliams.com/projects/34220/email/</guid>
+            <description>I added some Email</description>
+            <content type="html"><![CDATA[<p>I added some Email</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>my first post for 34220 project</title>
+            <link>https://www.carsonwwilliams.com/projects/34220/first34220post/</link>
+            <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://www.carsonwwilliams.com/projects/34220/first34220post/</guid>
+            <description>hello??? this is the first post</description>
+            <content type="html"><![CDATA[<p>hello??? this is the first post</p>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>
