@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on Carson W. Williams</title>
+    <link>https://www.carsonwwilliams.com/categories/projects/</link>
+    <description>Recent content in projects on Carson W. Williams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.carsonwwilliams.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Project</title>
+      <link>https://www.carsonwwilliams.com/posts/2023/02/my-first-project/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carsonwwilliams.com/posts/2023/02/my-first-project/</guid>
+      <description>hello??? projects</description>
+    </item>
+    
+  </channel>
+</rss>

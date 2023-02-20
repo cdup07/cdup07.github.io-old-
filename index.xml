@@ -6,7 +6,35 @@
     <description>Recent content on Carson W. Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.carsonwwilliams.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.carsonwwilliams.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding Email</title>
+      <link>https://www.carsonwwilliams.com/projects/34220/email/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carsonwwilliams.com/projects/34220/email/</guid>
+      <description>I added some Email</description>
+    </item>
+    
+    <item>
+      <title>my first post for 34220 project</title>
+      <link>https://www.carsonwwilliams.com/projects/34220/first34220post/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carsonwwilliams.com/projects/34220/first34220post/</guid>
+      <description>hello??? this is the first post
+Tags: 34220</description>
+    </item>
+    
+    <item>
+      <title>Starting a new project: 34220</title>
+      <link>https://www.carsonwwilliams.com/posts/2023/02/starting-a-new-project-34220/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carsonwwilliams.com/posts/2023/02/starting-a-new-project-34220/</guid>
+      <description>Check it out here</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://www.carsonwwilliams.com/posts/2023/02/my-first-post/</link>
@@ -15,7 +43,7 @@
       <guid>https://www.carsonwwilliams.com/posts/2023/02/my-first-post/</guid>
       <description>This is my first post! :D Welcome to my website! My name is Carson.
 Have some code:
-printf(&amp;#34;Hello world&amp;#34;); </description>
+printf(&amp;#34;Hello world&amp;#34;); print(&amp;#34;Hello world&amp;#34;) </description>
     </item>
     
     <item>

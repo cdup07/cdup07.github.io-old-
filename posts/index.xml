@@ -5,8 +5,19 @@
         <description>Recent content in Posts on Carson W. Williams</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://www.carsonwwilliams.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Starting a new project: 34220</title>
+            <link>https://www.carsonwwilliams.com/posts/2023/02/starting-a-new-project-34220/</link>
+            <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://www.carsonwwilliams.com/posts/2023/02/starting-a-new-project-34220/</guid>
+            <description>Check it out here</description>
+            <content type="html"><![CDATA[<p>Check it out <a href="/projects/34220">here</a></p>
+]]></content>
+        </item>
         
         <item>
             <title>My First Post</title>
@@ -16,11 +27,12 @@
             <guid>https://www.carsonwwilliams.com/posts/2023/02/my-first-post/</guid>
             <description>This is my first post! :D Welcome to my website! My name is Carson.
 Have some code:
-printf(&amp;#34;Hello world&amp;#34;); </description>
+printf(&amp;#34;Hello world&amp;#34;); print(&amp;#34;Hello world&amp;#34;) </description>
             <content type="html"><![CDATA[<h1 id="this-is-my-first-post-d">This is my first post! :D</h1>
 <p>Welcome to my website! My name is Carson.</p>
 <p>Have some code:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c" data-lang="c"><span style="display:flex;"><span><span style="color:#a6e22e">printf</span>(<span style="color:#e6db74">&#34;Hello world&#34;</span>);
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>print(<span style="color:#e6db74">&#34;Hello world&#34;</span>)
 </span></span></code></pre></div>]]></content>
         </item>
         
