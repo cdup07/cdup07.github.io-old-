@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.carsonwwilliams.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://www.carsonwwilliams.com/about/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.carsonwwilliams.com/about/</guid>
+      <description>Hi, I&amp;rsquo;m Carson Here&amp;rsquo;s a little about me&amp;hellip;
+EDUCATION Purdue University, West Lafayette, IN
+Bachelor of Science in Cybersecurity, May 2024
+Major GPA: 3.67/4.0 Purdue Presidential Scholarship Recipient Relevant Coursework: Completed: Cybersecurity Fundamentals, System Administration, Database Fundamentals, Systems Analysis and Design Methods Currently Enrolled in: Intro to Cryptography, UNIX Fundamentals, Policy and Regulation in IT Relevant Projects Discord Bot Personal Project December 2022 - Present
+Developed a custom discord bot using Python to track and alert users to the latest cybersecurity news from various internet sources in real-time Integrated multiple APIs to enable seamless extraction and processing of relevant news data TracerFIRE CTF – 2nd Place	West Lafayette, IN Sandia National Laboratories October 2022</description>
+    </item>
+    
+    <item>
       <title>Adding Email</title>
       <link>https://www.carsonwwilliams.com/projects/34220/email/</link>
       <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
@@ -43,22 +56,6 @@
       <description>This is my first post! :D Welcome to my website! My name is Carson.
 Have some code:
 printf(&amp;#34;Hello world&amp;#34;); print(&amp;#34;Hello world&amp;#34;) </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.carsonwwilliams.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.carsonwwilliams.com/about/</guid>
-      <description>Hi, I&amp;rsquo;m Carson Here&amp;rsquo;s a little about me&amp;hellip;
-EDUCATION Purdue University, West Lafayette, IN
-Bachelor of Science in Cybersecurity, May 2024
-Minor in Organizational Leadership
-Relevant Coursework: Completed: Cybersecurity Fundamentals, System Administration, Database Fundamentals, Systems Analysis and Design Methods Currently Enrolled in: Intro to Cryptography, UNIX Fundamentals, Policy and Regulation in IT EXPERIENCE Tracer Fire CTF – 2nd Place October 2022
-West Lafayette, IN
-Sandia National Laboratories
-Investigated multiple advanced persistent threat adversaries in a simulated incident response scenario Utilized incident response tools including Kibana, Velociraptor, Arkime, and Ghidra Residential Networks Support Representative August 2022 - Present</description>
     </item>
     
   </channel>
