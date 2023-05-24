@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/Carson/Desktop/hugo/carsonwwilliams",
+	"sourceRoot": "C:/Users/Carson/Documents/GitHub/cdup07.github.io/cdup07",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
